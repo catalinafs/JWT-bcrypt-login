@@ -9,12 +9,14 @@ let info;
 fs.readFile(pathfile, 'utf8', (err, data) => {
     if (err) console.log('❗Error al leer el archivo: ', err);
 
+    console.log(JSON.parse(data))
     info = JSON.parse(data);
 });
 
 const EncodeData = (req, res) => {
     const { email, password } = req.body;
 
+    console.log('Estatus info: ' + JSON.stringify(info))
     const userData = info.find((user) => { return user.email === email && bcrypt.compareSync(password, user.password) });
     console.log(userData)
 

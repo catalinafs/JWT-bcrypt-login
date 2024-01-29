@@ -1,1 +1,79 @@
-[{"id":1,"name":"Catalina","email":"catalinaforerosuarez@gmail.com","phone":1234567890,"password":"PW12345678cf"},{"id":2,"name":"Dylan","email":"dyaln@gmail.com","phone":1234567890,"password":"dylan123"},{"id":3,"name":"Jesu","email":"jesu@gmail.com","phone":1234567890,"password":"jesu456"},{"name":"Catalina","lastname":"Forero","phone":1234567890,"email":"cata@gmail.com","password":"$2b$10$uslSQTuu7mvVsj1iLfxuaucXJTLSGv8KRK5GkEz0jGk9ksOrzEIPi"},{"name":"Catalina","lastname":"Forero","phone":1234567890,"email":"cata@gmail.com","password":"$2b$10$fL7p2NW4NQMfuip3eKLO.uQg14zx96s8uwMiKlw.382ErO54TwA5G"},{"name":"Catalina","lastname":"Forero","phone":1234567890,"email":"catalina@gmail.com","password":"$2b$10$oOwgcLzSFLYpviiqXtIhc.5iY43tyx4XCJhfMmQG3bWODNwp7KnGC"},{"name":"Si","lastname":"No","phone":1234567890,"email":"catalina@gmail.com","password":"$2b$10$gJdSR67KamA35LnW8QBkOub76YH9cwmyV5WS0rn40l9yRThEPgk3C"},{"name":"Si","lastname":"No","phone":1234567890,"email":"si@gmail.com","password":"$2b$10$mdNjlYn9KM92yE2ElUQqfOxPgXU8bVa23BdbjBVmURK/RUJx/CLey"},{"name":"Hola","lastname":"Chao","email":"hola@chao.com","phone":1234567890,"password":"$2b$10$LXt9kOqAO80yVDy7P/A2IulN0rOQc3e7cMKrRTG3w7eDC8nfr2KI2"}]
+[
+    {
+        "name": "Fgdgfdfg",
+        "lastname": "Lnljbkjb",
+        "phone": "9768764768",
+        "email": "lkdfdgdgdf@fgf.fgf",
+        "password": "$2b$10$Ega9nU6PROM4xQu.NdVPtO5ICAHWgvm0oK99c0JHIweG6qIe6sR1a"
+    },
+    {
+        "name": "Fdgfgdfgfdg",
+        "lastname": "Dfgdgfg",
+        "phone": "3453455347",
+        "email": "jsnfskdfsdf@dsfsdf.df",
+        "password": "$2b$10$eQ.Xrk9EEW7s6Dorv5fnKON5J0MhxzEmmGz02WleBjeOsDvTw8nQu"
+    },
+    {
+        "name": "Yivjkfkghkd",
+        "lastname": "Kblhgvglf",
+        "phone": "9875634286",
+        "email": "jsnfssdfdfsdf@dsfsdf.df",
+        "password": "$2b$10$nH3NqZQPVhDtEwL0SJQlX.j.NQq2nAU2vaV03sVTTa3fSxjv5CJw6"
+    },
+    {
+        "name": "Dfsdfsdff",
+        "lastname": "Gfdgdfgfd",
+        "phone": "4568234765",
+        "email": "dfgdfgdfg@gjh.k.k",
+        "password": "$2b$10$Q5zZtpIOp/ybPPUDO0bH4O7MLrWHmnG1nJN3AfR4KafUVdWyxcFia"
+    },
+    {
+        "name": "Dfsdfsdff",
+        "lastname": "Gfdgdfgfd",
+        "phone": "4568234765",
+        "email": "dfgdfgdfg@gjh.k.k",
+        "password": "$2b$10$3vRwB4meWQs04/ZEbLOWgufQG5NQ.YrUCnnrgcBSRri5hlIpBygQC"
+    },
+    {
+        "name": "Dfsdfsdff",
+        "lastname": "Gfdgdfgfd",
+        "phone": "4568234765",
+        "email": "dfgdfgdfg@gjh.k.k",
+        "password": "$2b$10$n73UhSKAsgcvDG.t.MHi2.BEb0vyDdyvyTMIvQix84MSQ0g863PRG"
+    },
+    {
+        "name": "Dfsdfsdffdsfd",
+        "lastname": "Gfdgdfgfdsdfsds",
+        "phone": "4459489588",
+        "email": "dfgdfgdfg@gjh.dfdf",
+        "password": "$2b$10$2ar/hXk4BPPcRgmB/MAycuOCuIQpBKEMRe0/uQSuqgcpNzZalkL3a"
+    },
+    {
+        "name": "Dfsdfsdffdsdsfd",
+        "lastname": "Gfdgdfdfsds",
+        "phone": "4457489588",
+        "email": "fgdfg@gjh.dfdf",
+        "password": "$2b$10$IVUKg57httrAYKdi1chz6eREzpd1Jm.irKrRcvQtxVt5mRcp2S3gC"
+    },
+    {
+        "name": "Dsfdsfdsf",
+        "lastname": "Dsfdfsd",
+        "phone": "3468536754",
+        "email": "sdfsdfs@dfdfd.df",
+        "password": "$2b$10$SxZmj6NXc/CUAEbeMDeS4.10gTedP18HXx0qkSCBmq/H4qQiSMiRW"
+    },
+    {
+        "name": "Cata",
+        "lastname": "Yo",
+        "phone": "0987654321",
+        "email": "cata@si.co",
+        "password": "$2b$10$PNhFjjfvrvQuU0BgjqIPD.5yU/j0p0JhUnSitePu29MVkZSDz8eU2"
+    },
+    {
+        "name": "Claudia",
+        "lastname": "Suarez",
+        "phone": "3008083396",
+        "email": "clasuarez@hotmail.com",
+        "password": "$2b$10$UboYAbCa0JKGynSBi1hoJOkX0bojbbpHop/8JbTdO4Ka55Ajb5Uf6"
+    }
+]

@@ -30,5 +30,5 @@ app.post('/encode', validLogin, EncodeData);
 app.post('/decode', validToken, DecodeData);
 
 app.listen(port, () => {
-    console.log('its working');
+    console.log('its working, in port: ' + port);
 });
